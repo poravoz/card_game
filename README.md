@@ -1,1 +1,1 @@
-# game_slots
+# card_game
